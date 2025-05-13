@@ -1,0 +1,144 @@
+/* body
+{
+  background-color: bisque;
+}
+.topnav1
+{
+    background-color:  c;;
+} */
+.section
+{
+      height: 100vh;
+}
+.cream
+{ 
+    background-color: bisque;
+}
+.topnav
+{
+    padding-top: 40px;
+}
+a.ex1
+{
+    padding-left: 80px;
+    font-weight: bolder;
+}
+a.ex2
+{
+    padding-left: 650px;
+    font-weight: bolder;
+}
+a
+{
+    margin-left: 20px;
+    font-weight: bolder;
+}
+.button1 {
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:150px;
+  cursor: pointer;
+  margin-left: 50px;
+}
+.fa
+{
+    margin-left: 50px;
+}
+.topnav1
+{
+    padding-top: 55px;
+}
+a.ex6
+{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 80px;
+}
+a.ex7
+{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 80px;
+}
+a.ex8
+{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 80px;
+}
+a.ex10
+{
+    margin-left: 100px;
+    font-weight: lighter;
+    font-size: 40px;
+}
+a.ex11
+{
+    margin-left: 100px;
+    font-weight: lighter;
+    font-size: 40px;
+}
+a.ex12
+{
+    margin-left: 100px;
+    font-weight: lighter;
+    font-size: 40px;
+}
+a.ex13
+{
+    margin-left: 100px;
+    font-weight: lighter;
+    font-size: 40px;
+}
+.topnav3
+{
+    padding-top: 20px;
+    margin-left: 50px;
+    width: 250px;
+}
+.button2 {
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 15px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:250px;
+  cursor: pointer;
+  margin-left: 50px;
+}
+/* .topnav4
+{
+    margin-left: 80px;
+} */
+img
+{
+    float: right;
+    padding-top: 50px;
+    width: 400px;
+    height: 535px;
+    margin-right: 280px;
+}
+.topnav4
+{
+    /* background-color: #E0DCC8; */
+    padding-top: 60px; 
+    margin-left: 510px; 
+    /* padding-left: 500px; */
+    font-weight: bolder;
+    font-size:40px;
+}
+a.ex14
+{
+  padding-left: 50px;
+}
