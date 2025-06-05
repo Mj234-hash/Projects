@@ -1,0 +1,39 @@
+<html>
+  <style>
+    body {
+  position: relative;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  position: relative;
+  background: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  position: absolute;
+  bottom: -20px; /* Adjust this value to control the overlap */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+  </style>
+  <div class="content">
+  <!-- Main content goes here -->
+</div>
+
+<footer>
+  <button>Click Me</button>
+  Footer Content
+</footer>
+</html>

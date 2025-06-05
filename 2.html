@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Slide In from Top</title>
+  <style>
+    .slide-in {
+      position: relative;
+      top: -200px; /* Start above the visible area */
+      animation: slideDown 1s ease-out forwards;
+    }
+
+    @keyframes slideDown {
+      to {
+        top: 0; /* End at the original position */
+      }
+    }
+     a {
+      text-decoration: none;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <div class="slide-in">
+    <h1>Hello from the top!</h1>
+  </div>
+  <a href="1.html">Visit Example</a>
+</body>
+</html>

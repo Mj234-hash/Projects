@@ -1,0 +1,803 @@
+body
+{
+    background-color: bisque;
+     overflow-x: hidden;
+}
+.first_color
+{
+    padding-top: 20px;
+}
+.header
+{
+    padding-top: 50px;
+}
+.topnav
+{
+    padding-top: 40px;
+}
+a.ex1
+{
+    padding-left: 120px;
+    font-weight: bolder;
+}
+a.ex2
+{
+    padding-left: 210px;
+    font-weight: bolder;
+}
+a.ex3
+{
+    padding-left: 20px;
+    font-weight: bolder;
+}
+a.ex4
+{
+    padding-left: 30px;
+    font-weight: bolder;
+}
+a.ex5
+{
+    padding-left: 40px;
+    font-weight: bolder;
+}
+a.ex0
+{
+    padding-left: 20px;
+    font-weight: bolder;
+}
+/* a
+{
+    margin-left: 5px;
+    font-weight: bolder;
+} */
+.button1
+{
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none; 
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:150px;
+  cursor: pointer;
+  margin-left: 50px;
+}
+.fa
+{
+    margin-left: 50px;
+}
+.topnav1
+{
+    padding-top: 55px;
+}
+a.ex6
+{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 80px;
+}
+a.ex7
+{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 80px;
+}
+a.ex8
+{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 80px;
+}
+a.ex10
+{
+    margin-left: 100px;
+    font-weight: lighter;
+    font-size: 40px;
+}
+a.ex11
+{
+    margin-left: 100px;
+    font-weight: lighter;
+    font-size: 40px;
+}
+a.ex12
+{
+    margin-left: 100px;
+    font-weight: lighter;
+    font-size: 40px;
+}
+a.ex13
+{
+    margin-left: 100px;
+    font-weight: lighter;
+    font-size: 40px;
+}
+.topnav3
+{
+    padding-top: 20px;
+    margin-left: 50px;
+    width: 250px;
+}
+.button2
+{
+  background-color: black; /* Green */
+  color: white;
+  padding: 15px 15px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:250px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+.button3
+{
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 15px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:250px;
+  cursor: pointer;
+  margin-left: 50px;
+}
+img
+{
+    float: right;
+    padding-top: 50px;
+    width: 400px;
+    height: 535px;
+    margin-right: 200px;
+}
+.topnav4
+{
+    background-color: cornsilk;
+}
+.new
+{
+    padding-top: 100px;
+    padding-left: 500px;
+}
+.new1
+{
+    padding-top: 30px;
+}
+a.ex15
+{
+    margin-left: 390px;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: lighter;
+}
+/* Create three equal columns that sits next to each other */
+.row
+{
+  display: flex;
+  flex: auto;
+  padding-left: 250px;
+}
+img.blackjeanshirt
+{
+    padding-left: 250px;
+}
+img.whiteshirt
+{
+    width: 145%;
+}
+p.ex14
+{
+    padding-left: 520px;
+    padding-top: 50px;
+}
+p.ex15
+{
+    padding-left: 410px;
+}
+/* 
+.container
+{
+    max-width: 1200px;
+    margin: auto;
+    overflow: auto;
+    background-color: antiquewhite;
+} */
+.column
+{
+    float: left;
+    width: 35%;
+    flex: 33.33%;
+}
+.col4
+{
+    padding-right: 750px;
+}
+/* a.ex16
+{
+    padding-top: 20px;
+}
+p.ex16
+{
+    font-size: 60px;
+} */
+a.ex16
+{
+    padding-left: 600px;
+    font-size: 50px;
+}
+img.pink
+{
+    max-width: 25%;
+    max-height:15%;
+    padding-left: 200px;
+    float: left;
+}
+/* .text
+{
+    font-size: 30px;
+    /* padding-right: 200px; */
+/* p.ex16
+{
+    font-size: 60px;
+    /* padding-left: 50px; */
+    /* float: left; */
+    /* text-align: left; */
+
+/* } */
+a.ex6
+{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 80px;
+}
+.div1
+{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+/* img.img1
+{
+    padding-left: 200px;
+} */
+/* p.ex16
+{
+   padding-top: 100px;
+} */
+.img1
+{
+    margin-right: 0%;
+    padding-top: 80px;
+}
+p.ex20
+{
+    padding-top: 80px;
+    margin-top: 20px;
+    font-size: 60px;
+}
+a.ex20
+{
+    display: inline-block;
+    padding-top: 100px;
+    padding-left: 35px;
+    font-weight: bolder;
+    font-size: 45px;
+}
+a.ex21
+{
+    padding-top: 20px;
+    display: inline-block;
+    font-weight: lighter;
+    font-size: 25px;
+    padding-left: 35px;
+    padding-bottom: 70px;
+}
+.section0
+{
+  display: inline-block;
+  width: 500px;
+  height: 120px;
+  border: 1px solid #D9D9D9;
+  background-color: #a7a7a7;
+}
+p.a1
+{
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 50px;
+}
+p.a2
+{
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 20px;
+}
+p.best
+{
+    /* padding-left:10px; */
+    font-size:50px;
+    padding-top: 40px;
+}
+a.ex23
+{
+    padding-left:80px;
+    font-weight: lighter;
+    font-size: 25px;
+}
+a.ex24
+{
+    padding-left:80px;
+    font-weight: lighter;
+    font-size: 25px;
+}
+a.ex25
+{
+    padding-left:80px;
+    font-weight: lighter;
+    font-size: 25px;
+}
+a.ex26
+{
+    padding-left:80px;
+    font-weight: lighter;
+    font-size: 25px;
+}
+a.ex27
+{
+    padding-left:80px;
+    font-weight: lighter;
+    font-size: 25px;
+}
+a.ex28
+{
+    padding-left:80px;
+    font-weight: lighter;
+    font-size: 25px;
+}
+.topnav6
+{
+    padding-top:40px;
+    padding-left: 50px;
+    width:300px;
+}
+img.col4
+{
+    padding-left: 500px;
+}
+img.blackdress
+{
+    padding-top: 100px;
+    padding-right: 350px;
+    width: 20%;
+    height: 55%;
+}
+img.orange
+{
+    padding-top: 100px;
+    padding-right: 350px;   
+    width: 20%;
+    height: 55%;
+}
+.cont
+{
+    display: flex;
+    justify-content: space-between; /* Optional: adds space between the boxes */
+}
+/* .box
+{
+    width: 45%; /* Adjust width as needed */
+    /* padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+} */ 
+.image-container
+{
+      display: flex;
+
+      /*justify-content: space-between;
+       /* Optional: adds space between images */
+      /* gap: 10px; */
+    /* Optional: adds space between images */
+}
+.image-container img
+{
+      width: 48%; /* Adjust width as needed */
+      height: auto;
+      /* border: 1px solid #ccc; */
+}
+.container
+{
+    display: flex;
+    gap: 10px; /* Adjust space between columns */
+}
+.column
+{
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+}
+@media (max-width: 768px)
+{
+.column
+{
+    flex: 100%;
+}
+}
+.topbest
+{
+    padding-left: 150px;
+}
+/* .lorem
+{
+    padding-left: 139px;
+    font-weight: lighter;
+    font-size: larger;
+} */
+.container
+{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.box
+{
+  width: 30%;
+  padding: 10px;
+  text-align: left;
+}
+.box1
+{
+  padding-top: 100px;
+  width: 30%;
+  /* padding: 10px; */
+  /* text-align: left; */
+  padding-left: 50px;
+}
+.box2
+{
+  padding-top: 100px;
+  width: 30%;
+  /* padding: 10px; */
+  /* text-align: left; */
+  padding-left: 50px;
+}
+img.bestseller0
+{
+  max-width: 70%;
+  /* width: 100px; */
+  padding-left: 1900px;
+  height: auto;
+  /* margin-bottom: 10px; */
+}
+img.bestseller1
+{
+  /* width: 100%; */
+  padding-left: 100px;
+  max-width: 70%;
+  height: auto;
+  /* margin-bottom: 10px; */
+}
+.box p
+{
+  font-size: 16px;
+  color: #333;
+}
+.ourproduct
+{
+    padding-left: 620px;
+}
+.col213
+{
+    width: auto;
+    height: auto;
+    padding-top: 200px;
+}
+.col241
+{
+    width: 500px;
+    height: auto;
+    padding-top: 200px;
+    padding-right:50px;
+}
+/* .deal
+{
+    padding-top: 50px;
+    font-size: 50px;
+} */
+p.Lorem
+{
+    font-weight: lighter;
+}
+p.Deals
+{
+  display: inline-block;
+  font-size: 50px;
+  padding-top: 170px;
+}
+.square0
+{
+  height: 80px;
+  width: 80px;
+  background-color: white;
+}
+.square12
+{
+  height: 80px;
+  width: 80px;
+  background-color: white;
+}
+.square2
+{
+  height: 50px;
+  width: 50px;
+  background-color: white;
+}
+/* .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: maroon;
+  color: white;
+  text-align: center;
+} */
+footer
+{
+  text-align: center;
+  padding: 5px;
+  background-color: #340904;
+  color: white;
+}
+.signup
+{
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none; 
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:150px;
+  cursor: pointer;
+  margin-left: 50px;
+}
+        /* .image-row {
+            display: flex;
+            /* justify-content: space-around; */
+            /* column-gap: 1px;
+
+        }
+        .image-row img {
+            width: 300px; /* Set the desired width for images */
+            /* height: 300px; /* Maintain aspect ratio */
+        /* }
+        .img1
+        {
+            margin-left: 30px;
+        }
+        .img2
+        {
+            margin-left: 30px;
+        } */ 
+/* img.bestseller0
+{
+    height: 580px;
+    width: 5200px;
+} */
+/* img.bestseller1
+{
+    width : 1300px;
+    height: 300px;
+} */
+p.repl
+{
+    font-size: 50px;
+    font-weight: bolder;
+}
+/* a.rel
+{
+    font-size: 20px;
+    font-weight: lighter;
+} */
+a.rel
+{
+    /* padding-top: 15px; */
+    /* display: inline-block; */
+    font-weight: lighter;
+    font-size: 25px;
+}
+/* img.bestseller0
+{
+    width: 1500px;
+} */
+img.bestseller0
+{
+  width: 1200px; 
+  padding-top: 150px;  
+}
+img.bestseller1
+{
+  width: 1200px; 
+  padding-top: 150px;  
+}
+/* Create three equal columns that sits next to each other */
+/* .imagesrow
+{
+  display: flex;
+  flex: auto;
+  padding-left: 250px;
+} */
+.Lorem
+{
+  font-size: 30px;
+  font-weight: lighter;
+}
+.rows1
+{
+  display: flex;
+  flex: auto;
+  padding-left: 250px;
+}
+.columns1
+{
+    float: left;
+    width: 35%;
+    flex: 33.33%;
+}
+.col21
+{
+  padding-top: 150px;
+  display: flex;
+  flex: auto;
+  padding-left: 250px;   
+}
+.deal
+{
+  padding-top: 150px;
+  font-size:30px;
+  font-weight: bolder;
+}
+.followinst
+{
+  height: 150px;
+  width: 150px;
+}
+/* p.Deals
+{
+    padding-top: 300px;
+} */
+.button3
+{
+  background-color: #D9D9D9; /* Green */
+  border: none;
+  color: black;
+  /*padding: 15px 15px;  */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  /* margin: 4px 2px; */
+  width:450px;
+  cursor: pointer;
+  margin-left: 500px;
+  margin-bottom: 230px;
+}
+/* .bg-teal
+{
+  background-color: #F5F5F5; /* Green */
+  /* color: black;
+  padding: 15px 15px; 
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  /* width:250px; */
+  /* margin-left: 5px; */
+/* } */ 
+.seemore
+{
+   height:80px;
+   width:350px;
+   cursor: pointer;
+   border: 2px solid black;
+   color: black;
+   display: inline-block;
+   font-weight: bold;
+}
+/* a
+{
+    position: relative;
+    font-size: 1.1em;
+    font-weight: 500;
+    color: #333;
+    text-decoration: none;
+    padding: 6px 20px;
+    transition: .5s;
+}
+a:hover
+{
+    color: black;
+}
+a span
+{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    border-bottom: 2px solid black;
+    border-radius: 15px;
+    transform: scale(0) translateY(50px);
+    opacity: 0;
+    transition: .5s;
+}
+a:hover span
+{
+    transform: scale(1) translateY(0);
+    opacity: 1;
+} */
+.button5
+{
+  background-color: #F5F5F5; /* Green */
+  border: 2px solid black;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:380px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+.white1
+{
+  display: inline-block;
+  width: 280px;
+  height: 150px;
+  background-color: #f7f7f7;
+}
+/* .topnav1
+{
+    opacity: 0;
+    animation: top1 2s ease-in forwards;
+} */
+.topnav2
+{
+    position: relative;
+    top: -100px;
+    animation: top2 1s ease-in forwards;
+}
+@keyframes top2
+{
+    to
+    {
+        top: 0;
+    }
+}
+.topnav1
+{
+    position: relative;
+    top: -50px; /* Start above the visible area */
+    animation: slideDown 1s ease-in forwards;
+}
+@keyframes slideDown
+{
+      to 
+      {
+        top: 1; /* End at the original position */
+      }
+} 
