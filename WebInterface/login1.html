@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <style>
+        /* * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        } */
+        body
+        {
+            overflow-x: hidden;
+        }
+        .container {
+            display: flex;
+            flex: 1;
+        }
+        .left-section {
+            width: 50%;
+            background-color: #f0f0f0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .left-section img {
+            width: 100%;
+            height: auto;
+        }
+        .right-section {
+            width: 50%;
+            background-color: #1e1e1e;
+            color: white;
+            padding-left: 50px;
+            height: auto;
+            /* padding-top: 1px; */
+            /* display: flex; */
+            flex-direction: column;
+            justify-content: center;
+            padding-top:px0-;
+        }
+        .menu {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 30px;
+            padding-top: 20px;
+        }
+        .menu a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .auth-buttons {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+        .auth-buttons button {
+            padding: 5px 15px;
+            cursor: pointer;
+        }
+        .login-form h2 {
+            margin-bottom: 20px;
+        }
+        .login-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        .login-form button {
+            width: 100%;
+            padding: 10px;
+            background-color: black;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .login-form .options {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            margin-top: 10px;
+        }
+        footer {
+            background-color: #3d0000;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+        }
+        footer .footer-menu {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 10px;
+        }
+        footer .footer-menu a {
+            color: white;
+            text-decoration: none;
+        }
+        footer .social-icons {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="left-section">
+            <img src="whitepant.png" alt="Fashion Model">
+        </div>
+        <div class="right-section">
+            <div class="menu">
+                <a href="#">FIFASH</a>
+                <a href="#">MEN</a>
+                <a href="#" style="color: grey;">WOMAN</a>
+                <a href="#">TRENDS</a>
+                <a href="#">KIDS</a>
+                <a href="#">COLLECTION</a>
+                <div class="auth-buttons">
+                    <button>SIGN UP</button>
+                </div>
+            </div>
+
+            <div class="login-form">
+                <h2>LOGIN</h2>
+                <label>Username</label>
+                <input type="text" value="Ravin">
+
+                <label>Password</label>
+                <input type="password" value="******">
+
+                <button>LOGIN</button>
+
+                <div class="options">
+                    <span>Don't Have Account ?</span>
+                    <span>FORGOT PASSWORD ?</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="social-icons">
+            <!-- You can replace these with real social icons -->
+            <span>⚪ ⚫ 🟠 🟣</span>
+        </div>
+        <div class="footer-menu">
+            <a href="#">MEN</a>
+            <a href="#">WOMAN</a>
+            <a href="#">KIDS</a>
+            <a href="#">COLLECTION</a>
+            <a href="#">TRENDS</a>
+        </div>
+        <p>Copyrights Fifash, All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>

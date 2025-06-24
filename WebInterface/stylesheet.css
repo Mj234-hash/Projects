@@ -1,0 +1,35 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #000000CC;
+}  
+.white
+{
+    height: 100vh;
+    width: 39vw;
+}
+.coat
+{
+    width: 42vw;
+    height: 105vh;
+}
+.menu-bar-login
+{
+    color:white;
+    margin-left: 520px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    justify-content: center; 
+    gap: 100px;
+}
+body
+{
+   overflow: hidden;
+}
+.creamcoat
+{
+   height: 100vh; 
+   width: 40vw;
+}
