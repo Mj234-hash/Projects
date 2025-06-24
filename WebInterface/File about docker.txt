@@ -1,0 +1,19 @@
+Docker image is executable file which is used to build multiple containers
+Package everything into an artifact
+can be easily shared and moved
+Like a zip or tarfile or jar file
+Docker Image
+ An executable application artifact
+ Includes apps source code , but also complete environment configuration
+Add environment variables, create directories, files etc.
+Immutable template that defines how a container will be realized
+
+Docker container
+
+Running an instance of an image
+That's when the container when environment is created
+Actually starts an application
+
+you can run multiple container from one image
+
+

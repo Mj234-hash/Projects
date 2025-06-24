@@ -1,0 +1,63 @@
+.menu-bar-login
+{
+    display: flex;
+    width: 20px;
+    padding-left: 550px;
+    gap: 40px;
+    color:white;
+    font-size: large;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #000000CC;
+    overflow: hidden;
+}
+/* Set the image to cover the full viewport */
+img.Full-screen
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40.5vw;
+    height: 100vh;
+}
+.login
+{
+    width:450px;
+    height:25px;
+    font-weight: bold;
+}
+.signup
+{
+    width:450px;
+    height:25px;
+    font-weight: bold;
+}
+.loginicon
+{
+    margin-top:60px;
+    margin-left:1000px;
+    width:70px;
+}
+.box
+{
+  width: 550px;
+  height: 520px;
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, 0.70);
+  /* margin-top: 2px; */
+  margin-left: 790px;
+  margin-bottom: 220px;
+}
+.footer
+{
+  text-align: center;
+  padding: 29px;
+  background-color: #340904;
+  color: white;
+}

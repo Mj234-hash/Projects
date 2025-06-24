@@ -1,0 +1,115 @@
+        /* .image-row {
+            display: flex;
+            /* justify-content: space-around; */
+            /* column-gap: 1px;
+
+        }
+        .image-row img {
+            width: 300px; /* Set the desired width for images */
+            /* height: 300px; /* Maintain aspect ratio */
+        /* }
+        .img1
+        {
+            margin-left: 30px;
+        }
+        .img2
+        {
+            margin-left: 30px;
+        } */ 
+/* img.bestseller0
+{
+    height: 580px;
+    width: 5200px;
+} */
+/* img.bestseller1
+{
+    width : 1300px;
+    height: 300px;
+} */
+p.repl
+{
+    font-size: 50px;
+    font-weight: bolder;
+}
+/* a.rel
+{
+    font-size: 20px;
+    font-weight: lighter;
+} */
+a.rel
+{
+    /* padding-top: 15px; */
+    /* display: inline-block; */
+    font-weight: lighter;
+    font-size: 25px;
+}
+/* img.bestseller0
+{
+    width: 1500px;
+} */
+img.bestseller0
+{
+  width: 1200px;   
+}
+/* Create three equal columns that sits next to each other */
+/* .imagesrow
+{
+  display: flex;
+  flex: auto;
+  padding-left: 250px;
+} */
+.Lorem
+{
+  font-size: 30px;
+  font-weight: lighter;
+}
+.rows1
+{
+  display: flex;
+  flex: auto;
+  padding-left: 250px;
+}
+.columns1
+{
+    float: left;
+    width: 35%;
+    flex: 33.33%;
+}
+.col21
+{
+  padding-top: 150px;
+  display: flex;
+  flex: auto;
+  padding-left: 250px;   
+}
+.deal
+{
+  padding-top: 150px;
+  font-size:30px;
+  font-weight: bolder;
+}
+.followinst
+{
+  height: 150px;
+  width: 150px;
+}
+/* p.Deals
+{
+    padding-top: 300px;
+} */
+.button3
+{
+  padding-top: 20px;
+  background-color: #D9D9D9; /* Green */
+  border: none;
+  color: black;
+  /*padding: 15px 15px;  */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:450px;
+  cursor: pointer;
+  margin-left: 200px; 
+}
