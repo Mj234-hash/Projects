@@ -1,0 +1,74 @@
+
+    .wrapper1 {
+      font-family: 'Playfair Display';
+      display: flex;
+      font-size: 210px;
+      font-weight: bold;
+      color: black;
+      margin-left: 102px;
+      padding-top: 50px;
+    }
+    .letter1 {
+      font-weight: bold;
+      font-size: 80px;
+      opacity: 0;
+      animation: reveal 1s forwards;
+    }
+
+    .letter1:nth-child(1) {
+      animation-delay: 0.1s; f
+    }
+
+    .letter1:nth-child(2) {
+      animation-delay: 0.2s; a
+    }
+
+    .letter1:nth-child(3) {
+      animation-delay: 0.3s; s
+    }
+
+    .letter1:nth-child(4) {
+      animation-delay: 0.4s; h
+    }
+
+    .letter1:nth-child(5) {
+      animation-delay: 0.5s; i
+    }
+
+    .letter1:nth-child(6) {
+      animation-delay: 0.6s; o
+    }
+
+    .letter1:nth-child(7) {
+      animation-delay: 0.7s; n
+    }
+
+    .letter1:nth-child(8) {
+      animation-delay: 0.8s; S
+    }
+
+     .letter1:nth-child(9) {
+      animation-delay: 1s; t
+    }
+
+     .letter1:nth-child(10) {
+      animation-delay: 1.2s; y
+    }
+
+     .letter1:nth-child(11) {
+      animation-delay: 1.4s; l
+    }
+
+    .letter1:nth-child(12) {
+      animation-delay: 2s; e
+    }
+    
+    @keyframes reveal {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+   
