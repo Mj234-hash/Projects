@@ -3,6 +3,44 @@ body
     background-color: bisque;
      overflow-x: hidden;
 }
+a.Lorem
+{
+    font-weight: lighter;
+}
+.button2:hover
+{
+    transform: scale(1.1); 
+    background-color: wheat;
+    color: black;
+    font-weight: bold; /* Darker green on hover */
+}
+/* .button1:hover
+{
+    transform: scale(1.1);
+    background-color: beige;
+    color: black;
+    font-weight: bold;
+    /* background: linear-gradient(to left, #222 100%, #eee 50%); */
+    /* cursor: pointer; */
+
+.Shopnow
+{
+   height: 80px;
+    width: 300px;
+    margin-left: 100px;
+    border-radius: 40px;
+    background-color: black;
+    color:white;
+    /* background: linear-gradient(to left, black 100%,  beige 100%); */
+}
+.Shopnow:hover
+{
+    transform: scale(1.1);
+    background-color: beige;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
 .first_color
 {
     padding-top: 20px;
@@ -28,18 +66,22 @@ a.ex2
 a.ex3
 {
     padding-left: 20px;
+    font-weight: bolder;
 }
 a.ex4
 {
     padding-left: 30px;
+    font-weight: bolder;
 }
 a.ex5
 {
     padding-left: 40px;
+    font-weight: bolder;
 }
 a.ex0
 {
     padding-left: 20px;
+    font-weight: bolder;
 }
 /* a
 {
@@ -49,7 +91,7 @@ a.ex0
 .button1
 {
   background-color: black; /* Green */
-  border: none;
+  border-radius: 20px;
   color: white;
   padding: 5px 5px;
   text-align: center;
@@ -58,8 +100,38 @@ a.ex0
   font-size: 16px;
   /* margin: 4px 2px; */
   width:150px;
+  height: 40px;
   cursor: pointer;
   margin-left: 50px;
+}
+.button1:hover
+{
+     transform: scale(1.1); 
+     background-color: beige;
+     color:black; /* Darker green on hover */
+     font-weight:bold;
+}
+.button2
+{
+  background-color: black; /* Green */
+  border-radius: 20px;
+  color: white;
+  /* padding: 5px 5px; */
+  text-align: center;
+  text-decoration: none; 
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:160px;
+  height: 40px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+.button2:hover
+{
+     transform: scale(1.1); 
+     background-color: beige;
+     color:black /* Darker green on hover */
 }
 .fa
 {
@@ -67,7 +139,7 @@ a.ex0
 }
 .topnav1
 {
-    padding-top: 55px;
+    padding-top: 0px;
 }
 a.ex6
 {
@@ -116,21 +188,6 @@ a.ex13
     padding-top: 20px;
     margin-left: 50px;
     width: 250px;
-}
-.button2
-{
-  background-color: black; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 15px; 
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  /* margin: 4px 2px; */
-  width:250px;
-  cursor: pointer;
-  margin-left: 50px;
 }
 .button3
 {
@@ -452,12 +509,14 @@ img.orange
   text-align: left;
 }
 .box1
-{
+{ 
+  color:white;
+  height: 100px;
   padding-top: 100px;
   width: 30%;
   /* padding: 10px; */
   /* text-align: left; */
-  padding-left: 50px;
+  padding-left: 40px;
 }
 .box2
 {
@@ -491,7 +550,6 @@ img.bestseller1
 .ourproduct
 {
     padding-left: 620px;
-    padding-top: 150px;
 }
 .col213
 {
@@ -621,7 +679,13 @@ a.rel
 } */
 img.bestseller0
 {
-  width: 1200px;   
+  width: 1200px; 
+  padding-top: 150px;  
+}
+img.bestseller1
+{
+  width: 1200px; 
+  padding-top: 150px;  
 }
 /* Create three equal columns that sits next to each other */
 /* .imagesrow
@@ -671,7 +735,6 @@ img.bestseller0
 } */
 .button3
 {
-  padding-top: 20px;
   background-color: #D9D9D9; /* Green */
   border: none;
   color: black;
@@ -680,10 +743,34 @@ img.bestseller0
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  position: absolute;
   /* margin: 4px 2px; */
   width:450px;
   cursor: pointer;
-  margin-left: 200px; 
+  margin-left: 500px;
+  margin-bottom: 230px;
+}
+/* .bg-teal
+{
+  background-color: #F5F5F5; /* Green */
+  /* color: black;
+  padding: 15px 15px; 
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  /* width:250px; */
+  /* margin-left: 5px; */
+/* } */ 
+.seemore
+{
+   height:80px;
+   width:350px;
+   cursor: pointer;
+   border: 2px solid black;
+   color: black;
+   display: inline-block;
+   font-weight: bold;
 }
 /* a
 {
@@ -718,3 +805,63 @@ a:hover span
     transform: scale(1) translateY(0);
     opacity: 1;
 } */
+.button5
+{
+  background-color: #F5F5F5; /* Green */
+  border: 2px solid black;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  width:380px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+.white1
+{
+  display: inline-block;
+  width: 280px;
+  height: 150px;
+  background-color: #f7f7f7;
+}
+/* .topnav1
+{
+    opacity: 0;
+    animation: top1 2s ease-in forwards;
+} */
+/*this code is for sliding down the text */
+/* the below code is commented for future use */
+/* .topnav2
+{
+    position: relative;
+    top: -350px;
+    animation: top2 1s ease-in forwards;
+}
+@keyframes top2
+{
+    to
+    {
+        top: 1;
+    }
+} */
+/* This code for sliding down the text */
+/* the below code is commented for future use */
+/* .topnav1
+{
+    position: relative;
+    top: -50px; /* Start above the visible area */
+    /* animation: slideDown 1s ease-in forwards;
+}
+@keyframes slideDown
+{
+      to 
+      {
+        top: 1; /* End at the original position */
+      /* }
+}  */ 
+.font1
+{
+    font-weight: lighter;
+}
