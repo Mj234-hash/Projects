@@ -1,0 +1,32 @@
+
+.slideshow-container
+{
+  position: relative;
+  width: 80%;
+  /* max-width: 600px; */
+  overflow: hidden;
+  border-radius: 10px;
+  margin-left: 350px;
+}
+
+/* .slide {
+  display: none;
+  text-align: center;
+} */
+
+.slide img {
+  width: 500px;
+  height: 600px;
+  margin-left: 500px
+}
+
+.fade {
+  animation: fadeEffect 3s infinite;
+}
+
+@keyframes fadeEffect {
+  0% { opacity: 0; }
+  20% { opacity: 1; }
+  80% { opacity: 1; }
+  100% { opacity: 0; }
+}
